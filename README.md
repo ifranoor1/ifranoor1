@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm IFRA NOOR</h1>
 <h3 align="center">BIOINFORMATICIAN</h3>
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animations/female-web-developer">
+<img align="right" alt="coding" width="400" src="images.jfif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
